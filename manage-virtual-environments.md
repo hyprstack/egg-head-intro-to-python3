@@ -1,6 +1,6 @@
-##Virtual environment allow us to keep dependencis for diffenrent places in different places
+## Virtual environment allow us to keep dependencis for diffenrent places in different places
 
-###To use it
+### To use it
 
 `pip install virtualenv`
 

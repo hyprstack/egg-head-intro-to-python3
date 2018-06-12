@@ -16,7 +16,7 @@ To check if a variable is None we use the *is* operator
 In python a viariable is assigned an id
 
 ```python
-	id(foo) //--> <someId anumber>
+	id(foo) // >>> <someId anumber>
 ```
 
 The *is* operator is faster and the correct way to check for comparison as it does an id comparison. Using the double *==* operator requires a
